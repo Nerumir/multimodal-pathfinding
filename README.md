@@ -1,7 +1,6 @@
 # Manipulation de données et algorithme de pathfinding multi-modal
 
 ## Introduction
-principe du projet et but. Indiquer que le suivi et les explications détaillées sont dans le PDF de walkthrough
 
 Le but de ce projet est de récolter une quantité importante de données concernant les arrêts de transports en commun en France ainsi que leurs horaires de passage. Le traitement et la réorganisation de ces données servent à calculer des chemins combinant marche à pied et transports en commun de type bus. J'ai ensuite créé un algorithme de pathfinding multi-modal pour calculer ce chemin d'un point de départ vers un point d'arrivée, tous deux aléatoires. Ce projet n'est absolument pas optimisé et sert uniquement de PoC.
 
